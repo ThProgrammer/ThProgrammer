@@ -1,23 +1,17 @@
 ## Usando a <strong>tecnologia</strong> e <strong>criatividade</strong> para resolver problemas cada vez maiores.
-<br><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
-
 <h3>
   📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (2/5).</strong>
 </h3>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="4000px" width="350px" align="right" alt="Computador iuriCode">
 
 <h3>
   🎯 Objetivo atual: <strong>Primeira experiência profissional.</strong>
-</h3><br><br>
-<br><br>
-<br><br><br>
-
-## 
+</h3><br>
 
 
 <div align="left">
-  <a href="https://github.com/ThProgrammer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThProgrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height = "180em" src = "https://github-readme-streak-stats.herokuapp.com?user=ThProgrammer&theme=tokyonight">
+
 </div>
 
 <div  style="display: inline_block"><br>
@@ -35,7 +29,7 @@
  
 <div/>
 
-##  
+  ##
 
 <a href="https://instagram.com/th_ferre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:thomas.devfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
