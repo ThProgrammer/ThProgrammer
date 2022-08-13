@@ -9,11 +9,14 @@
 <h3>
   🎯 Objetivo atual: <strong>Primeira experiência profissional.</strong>
 </h3><br><br>
-<img height = "180em" src="https://github-readme-streak-stats.herokuapp.com?user=ThProgrammer&theme=tokyonight"
-<br>
-<div  align="left">
+<br><br>
+<br><br><br>
+
+## 
+
+
+<div align = "left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThProgrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs?username=ThProgrammer&layout=compact&theme=tokyonight">
 </div>
 
@@ -33,7 +36,6 @@
 <div/>
 
 ##  
-
 
 <a href="https://instagram.com/th_ferre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:thomas.devfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
