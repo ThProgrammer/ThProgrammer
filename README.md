@@ -1,6 +1,6 @@
 ## Usando a <strong>tecnologia</strong> e <strong>criatividade</strong> para resolver problemas cada vez maiores.
 <h3>
-  📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (2/5).</strong>
+  📚 Estudando:<strong> Análise e Desenvolvimento de Sistemas (3/5).</strong>
 </h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="4000px" width="350px" align="right" alt="Computador iuriCode">
 
